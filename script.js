@@ -40,7 +40,7 @@ function drawNumber(){
 // Reset
 function resetNumbers(){
     numbers = [];
-    for (let i=1; i<=90; i++) numbers.push(i);
+    for (let i=1; i<=50; i++) numbers.push(i);
     shuffle(numbers);
     document.getElementById("drawn-number").innerText = "–";
 }
