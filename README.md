@@ -1,2 +1,2 @@
-# BingoRomm
+# BingoRom
 Zufallsgenerator
