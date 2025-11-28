@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+  height: 100vh;
+    padding: 50px;
+    background-image: url("Tor.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+#drawn-number {
+    font-size: 7em;
+    color: #2c3e50;
+    margin-top: 25px;
+    justify-content: center;
+    display: flex;
+}
+
+#button {
+    font-size: 5em;
+    padding: 20px 30px;
+    cursor: pointer;
+    display: flex;
+  justify-content: center;
+  margin-top: 35%;
+  gap: 900px;
+    
+   
+}
+
+
+
+#Alles {
+display: flex;
+flex-direction: column;
+
+}
+
+
+
